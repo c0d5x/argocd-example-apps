@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui
   labels:
     purpose: test
+    todelete: yes
 spec:
   ports:
   - port: 80
