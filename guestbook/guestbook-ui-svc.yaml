@@ -9,6 +9,7 @@ metadata:
     another: label
     just: another
     dont: usebools
+    yesyes: nono
 spec:
   ports:
   - port: 80
