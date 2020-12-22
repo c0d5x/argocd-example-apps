@@ -6,10 +6,6 @@ metadata:
   labels:
     purpose: test
     todelete: fuck
-    another: label
-    just: another
-    dont: usebools
-    yesyes: nono
 spec:
   ports:
   - port: 80
