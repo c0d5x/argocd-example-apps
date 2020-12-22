@@ -1,12 +1,14 @@
+---
 apiVersion: v1
 kind: Service
 metadata:
   name: guestbook-ui
   labels:
     purpose: test
-    todelete: yes
+    todelete: fuck
     another: label
     just: another
+    dont: usebools
 spec:
   ports:
   - port: 80
