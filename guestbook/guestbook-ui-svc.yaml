@@ -5,6 +5,7 @@ metadata:
   labels:
     purpose: test
     todelete: yes
+    another: label
 spec:
   ports:
   - port: 80
